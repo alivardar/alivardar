@@ -12,6 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on pikotv and turbogamer
+- 🔭 I’m currently working on pikotv and turbogamer projects.
 
 
